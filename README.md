@@ -1,4 +1,4 @@
-# FoodCollectionForNGO
+# Food Collection For NGO
 
 # About the Project
 This project models an approach to find the most optimal path finder for NGOs to locate the unused food from restaurants and other places. This becomes a NP hard problem, thus a good approximation is analyzed and reported back minimizing calculations and maximizing efficiency heuristically.
@@ -7,7 +7,7 @@ There are many instances when the restaurants want to give away all their leftov
 We have used the approach of fractional knapsack with slight modifications where required. We have a fixed quantity (value), we need to minimize the distance (weight) having achieved the value. Different datasets were used to test the implementation. The simulation results has been successful achieved.
 
 # Algorithm
-# Pre-computation : (Clustering)
+Pre-computation : (Clustering)
 1 Fetch all nodes (food distributors : restaurants, etc) with their location.
 2 Calculate distance of each node with every other node
 3 Cluster the nearby nodes as per the threshold distance.
