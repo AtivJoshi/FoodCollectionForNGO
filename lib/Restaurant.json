@@ -1,0 +1,162 @@
+[
+  {
+    "name":"A",
+    "latitude":"23.041032",
+    "longitude":"72.543654",
+    "qty":"5",
+    "cluster":"1"
+  },
+
+  {
+    "name":"B",
+    "latitude":"23.041121",
+    "longitude":"72.542184",
+    "qty":"8",
+    "cluster":"1"
+  },
+
+  {
+    "name":"C",
+    "latitude":"23.036215",
+    "longitude":"72.528476",
+    "qty":"10",
+    "cluster":"2"
+  },
+
+  {
+    "name":"D",
+    "latitude":"23.036728",
+    "longitude":"72.527092",
+    "qty":"3",
+    "cluster":"2"
+  },
+
+  {
+    "name":"E",
+    "latitude":"23.035079",
+    "longitude":"72.524624",
+    "qty":"5",
+    "cluster":"2"
+  },
+
+  {
+    "name":"F",
+    "latitude":"23.023756",
+    "longitude":"72.549321",
+    "qty":"6",
+    "cluster":"3"
+  },
+
+  {
+    "name":"G",
+    "latitude":"23.023775",
+    "longitude":"72.547626",
+    "qty":"5",
+    "cluster":"3"
+  },
+
+  {
+    "name":"H",
+    "latitude":"23.022788",
+    "longitude":"72.548087",
+    "qty":"10",
+    "cluster":"3"
+  },
+
+  {
+    "name":"I",
+    "latitude":"23.040525",
+    "longitude":"72.571654",
+    "qty":"5",
+    "cluster":"4"
+  },
+
+  {
+    "name":"J",
+    "latitude":"23.039350",
+    "longitude":"72.571633",
+    "qty":"8",
+    "cluster":"4"
+  },
+
+  {
+    "name":"K",
+    "latitude":"23.023796",
+    "longitude":"72.569600",
+    "qty":"6",
+    "cluster":"5"
+  },
+
+  {
+    "name":"L",
+    "latitude":"23.020374",
+    "longitude":"72.561444",
+    "qty":"10",
+    "cluster":"6"
+  },
+
+  {
+    "name":"M",
+    "latitude":"23.035865",
+    "longitude":"72.587184",
+    "qty":"5",
+    "cluster":"7"
+  },
+
+  {
+    "name":"N",
+    "latitude":"23.035865",
+    "longitude":"72.587184",
+    "qty":"7",
+    "cluster":"7"
+  },
+
+  {
+    "name":"O",
+    "latitude":"23.060482",
+    "longitude":"72.543840",
+    "qty":"12",
+    "cluster":"8"
+  },
+
+  {
+    "name":"P",
+    "latitude":"23.062160",
+    "longitude":"72.531089",
+    "qty":"7",
+    "cluster":"9"
+  },
+
+  {
+    "name":"Q",
+    "latitude":"23.062502",
+    "longitude":"72.560692",
+    "qty":"5",
+    "cluster":"10"
+  },
+
+  {
+    "name":"R",
+    "latitude":"23.068246",
+    "longitude":"72.585912",
+    "qty":"3",
+    "cluster":"11"
+  },
+
+  {
+    "name":"S",
+    "latitude":"23.007489",
+    "longitude":"72.547767",
+    "qty":"15",
+    "cluster":"12"
+  },
+
+  {
+    "name":"T",
+    "latitude":"23.019934",
+    "longitude":"72.506539",
+    "qty":"5",
+    "cluster":"13"
+  }
+
+]
